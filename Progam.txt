@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 52CA-FF94
-
- Directory of C:\Users\AKHILESH\Desktop\NewFolder
-
-10-07-2023  18:21    <DIR>          .
-10-07-2023  17:50    <DIR>          ..
-10-07-2023  18:21                 0 Progam.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  31,155,109,888 bytes free
+ Final step to be zero error
